@@ -1,0 +1,25 @@
+{
+    "pages": [
+      "pages/home/main",
+      "pages/ApplyCard/main",
+      "pages/Product/main",
+      "pages/ShopDetails/main",
+      "pages/ShopOrderPay/main",
+      "pages/ShoppingCart/main",
+      "pages/user/main",
+      "pages/DistributionCenter/main",
+      "pages/DistributionCenter/subordinate/main",
+      "pages/DistributionCenter/Profit/main",
+      "pages/DistributionCenter/withdraw/main",
+      "pages/IntegralShop/main",
+      "pages/IntegralShopDetails/main",
+      "pages/ShopOrder/main",
+      "pages/Coupon/main"
+    ],
+    "window": {
+      "backgroundTextStyle": "light",
+      "navigationBarBackgroundColor": "#ffffff",
+      "navigationBarTitleText": "校品直购",
+      "navigationBarTextStyle": "black"
+    }
+}
