@@ -146,7 +146,7 @@
         </div>
       </div>
     </div>
-    <vue-tabBar :selectNavIndex="4"></vue-tabBar>
+    <vue-tabBar :selectNavIndex="1"></vue-tabBar>
     <auth v-if='IsAuthShow' :type="'getUserInfo'" :msg="'校品直购将要获取你的用户信息用以身份验证，是否允许？'" @handCacnl="handCacnl" @handLogin="handLogin"></auth>
   </div>
 </template>

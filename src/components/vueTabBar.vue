@@ -34,30 +34,6 @@
             icon: 'iconshouye'
           },
           {
-            Id: 2,
-            pagePath: '/pages/ApplyCard/main',
-            iconPath: '/static/tabs/Ticketing-default.png',
-            selectedIconPath: '/static/tabs/Ticketing-active.png',
-            text: '会员',
-            icon: 'iconwodehuiyuanqia'
-          },
-          {
-            Id: 3,
-            pagePath: '../Product/main',
-            iconPath: '/static/tabs/Ticketing-default.png',
-            selectedIconPath: '/static/tabs/Ticketing-active.png',
-            text: '商城',
-            icon: 'iconshangcheng'
-          },
-          {
-            Id: 4,
-            pagePath: '../ShoppingCart/main',
-            iconPath: '/static/tabs/Course-default.png',
-            selectedIconPath: '/static/tabs/Course-active.png',
-            text: '购物车',
-            icon: 'icongouwuche-'
-          },
-          {
             Id: 5,
             pagePath: '../user/main',
             iconPath: '/static/tabs/user-default.png',
